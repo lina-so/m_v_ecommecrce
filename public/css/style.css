@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+}
+.wrapper .register_as {
+    display: grid;
+    align-items: end;
+    height: 55vh;
+    justify-content: center;
+    justify-items: center;
+}
+image.user{
+    padding-right:2em;
+}
+image.vendor{
+    padding-left:2em;
+}
+
+h3.registerHeader {
+    font-weight: 790;
+    color: cornflowerblue;
+    font-size: 2.5em;
+    font-family: cursive;
+}
